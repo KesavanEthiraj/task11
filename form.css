@@ -1,0 +1,32 @@
+.body {
+  background-color: rgb(171, 208, 209);
+  width: 50%;
+  text-align: center;
+
+  border-radius: 10px;
+  border: solid 1px;
+  border-color: red;
+}
+body {
+  text-align: center;
+  background-color: black;
+}
+.lable {
+  width: 150px;
+  text-align: left;
+  font-size: 18px;
+}
+.input {
+  width: 250px;
+}
+.title {
+  color: red;
+}
+.button {
+  background-color: blueviolet;
+  border: solid 2px;
+  border-radius: 5px;
+}
+.delete{
+  width:20%;
+}
